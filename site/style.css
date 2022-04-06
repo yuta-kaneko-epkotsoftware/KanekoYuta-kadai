@@ -1,0 +1,522 @@
+html{
+    display:block;
+    width:1280px;
+    height: 4700px;
+    
+}
+
+
+body{ 
+    background-color: #f1f1f1; 
+    display:block;
+    width:1280px;
+    margin: 0;      
+}
+header{
+    width: 1280px;
+    
+}
+
+
+
+.box{
+    position: relative;
+    width:1280px;
+    
+}
+.div{
+    width:1280px;
+
+}
+.sample{
+    position: absolute;
+    top: 20px;
+    right:100px;
+    width:60px;
+    height: 60px;
+}
+ul{
+    position:absolute;
+    display:flex;
+    top:30px;
+    color:#937218;
+    font-family: Sorts Mill Goudy,serif;
+
+}
+
+
+
+.dog{
+    position:absolute;
+    top:150px;
+}
+.dog2{
+    position: absolute;
+    top:400px;
+    right:100px;
+    width:291px;
+    height:75px;
+}
+.dog3{
+    position:absolute;
+    top:700px;
+    right:70px;
+}
+
+p37{
+    position:absolute;
+    color:#937218;
+    font-size:10px;
+    text-transform:uppercase;
+    letter-spacing:.3em;
+    top:500px;
+    right:90px;
+    font-family: Sorts Mll Goudy,serif;
+}
+p1{
+    position: absolute;
+    color:#937218;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    right:920px;
+    top: 770px;
+    font-family: Sorts Mill Goudy,serif;
+}
+
+p2{
+    position:absolute;
+    font-size: 14px;
+    top: 770px;
+    right:380px;
+    color:#937218;
+}
+p52{
+    position:absolute;
+    letter-spacing: -0.2em;
+    width: 70px;
+    top:770px;
+    right:280px;
+    color:#937218;
+    
+}
+
+p4{
+    position:absolute;
+    font-size: 14px;
+    top: 770px;
+    right:250px;
+    color:#937218;
+}
+p5{
+    position:absolute;
+    writing-mode: vertical-rl;
+    font-size:15px;
+    top:950px;
+    left:100px;
+    color: #937218;
+    letter-spacing:.2em;
+    text-transform: uppercase;
+    font-family: Sorts Mill Goudy,serif;  
+}
+p39{
+    position:absolute;
+    writing-mode: vertical-rl;
+    font-size:15px;
+    top:1060px;
+    left:100px;
+    color:#937218;
+    font-size:Sorts Mill Goudy,serif;
+}
+p00{
+    position:absolute;
+    font-family: Sorts Mill Goudy,serif;
+    letter-spacing: .15em;
+    font-size: 50px;
+    top:929px;
+    left:520px;
+    color:#937218;
+    
+}
+p0{
+    position:absolute;
+    top:1020px;
+    left:620px;
+    color:#937218;
+
+}
+p6{
+    position:absolute;
+    top:1070px;
+    left:580px;
+    font-size:16px;
+    letter-spacing:.16em;
+    color:#937218;
+    font-family: Sorts Mill Goudy,serif;
+}
+p7{
+    position:absolute;
+    top:1170px;
+    left:430px;
+    font-size:18px;
+    color:#937218;
+    letter-spacing: .2em;
+    line-height: 2.5;
+    font-family: Sorts Mill Goudy,serif;
+}
+p8{
+    position:absolute;
+    top:1400px;
+    left:530px;
+    color:#937218;
+    text-decoration: none;
+    font-family: Sorts Mill Goudy,serif;
+    letter-spacing:.2em;
+}
+.dog4{
+    position:absolute;
+    top:1390px;
+    left:670px;
+
+    
+}
+.dog5{
+    position:absolute;
+    top:1600px;
+    left: 30px;
+    width:592px;
+    height:380px;
+
+}
+.dog6{
+    position:absolute;
+    top:1600px;
+    right:30px;
+    width:592px;
+    height:380px;
+}
+.dog7{
+    position:absolute;
+    top:1600px;
+}
+p9{
+    position:absolute;
+    top:1630px;
+    writing-mode: vertical-rl;
+    left:575px;
+    color:#fff;
+    font-size:12px;
+    letter-spacing:.2em;
+    text-transform:uppercase;
+    font-family: Sorts Mill Goudy,serif;
+}
+p40{
+    position:absolute;
+    top:1720px;
+    writing-mode: vertical-rl;
+    left:575px;
+    color:#fff;
+    font-size:12px;
+    font-family: Sorts Mill Goudy,serif;
+}
+p10{
+    position:absolute;
+    top:1630px;
+    writing-mode: vertical-rl;
+    right:50px;
+    color:#fff;
+    font-size:12px;
+    letter-spacing:.2em;
+    text-transform:uppercase;
+    font-family: Sorts Mill Goudy,serif;
+}
+p41{
+    position:absolute;
+    top:1720px;
+    writing-mode: vertical-rl;
+    right:50px;
+    color:#fff;
+    font-size:12px;
+    font-family: Sorts Mill Goudy,serif;
+
+}
+p11{
+    position:absolute;
+    top:1720px;
+    left:220px;
+    font-size:44px;
+    color:#fff;
+    font-family:Sorts Mill Goudy,serif;
+    letter-spacing:.1em;
+}
+p12{
+    position:absolute;
+    top:1720px;
+    right:250px;
+    font-size:44px;
+    color:#fff;
+    font-family:Sorts Mill Goudy,serif;
+    letter-spacing:.1em;
+}
+p13{
+    position:absolute;
+    top:1780px;
+    left:300px;
+    color:#fff;
+    font-size:30px;
+}
+p14{
+    position:absolute;
+    top:1780px;
+    right:320px;
+    color:#fff;
+    font-size:30px;   
+}
+p15{
+    position:absolute;
+    font-size:15px;
+    letter-spacing:.2em;
+    top:1825px;
+    left:240px;
+    color:#fff;
+    font-family:Sorts Mill Goudy,serif;
+}
+p16{
+    position:absolute;
+    font-size:15px;
+    letter-spacing:.2em;
+    top:1825px;
+    right:220px;
+    color:#fff;
+    font-family:Sorts Mill Goudy,serif;
+}
+.dog7{
+    position:absolute;
+    top:1920px;
+    left:540px;
+}
+.dog8{
+    position:absolute;
+    top:1920px;
+    right:60px;
+}
+p38{
+    position:absolute;
+    font-size:50px;
+    font-family:Sorts Mill Goudy,serif;
+    color:#937218;
+    top:2190px;
+    letter-spacing:.15em; 
+    left:520px;
+}
+p17{
+    position:absolute;
+    font-size:20px;
+    color:#937218;
+    left:620px;
+    top:2290px;
+}
+.dog9{
+    position:absolute;
+    top:2370px;
+    left:160px;
+}
+.dog10{
+    position:absolute;
+    top:2910px;
+    left:1060px;
+}
+.dog11{
+    position:absolute;
+    top:2910px;
+    left:1120px;
+}
+p18{
+    position:absolute;
+    letter-spacing: -0.2em;
+    top:2900px;
+    color:#937218;
+    left:150px;
+}
+p19{
+    position:absolute;
+    letter-spacing: -0.2em;
+    top:2900px;
+    color:#d4c7a3;
+    left:250px;
+}
+p20{
+    position:absolute;
+    letter-spacing: -0.2em;
+    top:2900px;
+    color:#d4c7a3;
+    left:350px;
+}
+p21{
+    position:absolute;
+    letter-spacing: -0.2em;
+    top:2900px;
+    color:#d4c7a3;
+    left:450px;
+}
+p22{
+    position:absolute;
+    letter-spacing: -0.2em;
+    top:2900px;
+    color:#d4c7a3;
+    left:550px;
+}
+h4{
+    position:absolute;
+    font-size:47px;
+    font-family: Sorts Mill Goudy,serif;
+    letter-spacing:.15em;
+    color:#937218;
+    top:3050px;
+    left:530px;
+}
+p23{
+    position:absolute;
+    color:#937218;
+    top:3180px;
+    left:600px;
+    font-size:20px;
+    font-family: Sorts Mill Goudy,serif;
+    
+}
+p24{
+    position:absolute;
+    top:3300px;
+    left:320px;
+    color:#888;
+    font-family: Sorts Mill Goudy,serif;
+}
+p25{
+    position:absolute;
+    top:3350px;
+    left:320px;
+    color:#888;
+    font-family: Sorts Mill Goudy,serif;
+}
+u{
+    color:#937218;
+}
+
+
+p26{
+    position:absolute;
+    top:3450px;
+    left:320px;
+    color:#888;
+    font-family: Sorts Mill Goudy,serif;
+}
+p27{
+    position:absolute;
+    top:3520px;
+    left:320px;
+    color:#888;
+    font-family: Sorts Mill Goudy,serif;
+}
+p28{
+    position:absolute;
+    top:3600px;
+    left:320px;
+    color:#888;
+    font-family: Sorts Mill Goudy,serif;
+}
+p29{
+    position:absolute;
+    top:3700px;
+    left:320px;
+    color:#888;
+    font-family: Sorts Mill Goudy,serif;
+}
+.dog12{
+    position:absolute;
+    top:3970px;
+    width:1280px;
+    left:0px;
+}
+div.radius{
+    position:absolute;
+    border:1px solid #fff;
+    padding:10px;
+    top:4100px;
+    right:370px;
+    width:515px;
+    height: 95px;
+    text-decoration: none;
+    border-radius:30px;
+}
+.dog13{
+    position:absolute;
+    top:44px;
+    right:20px;
+}
+p30{
+    position:absolute;
+    top:4050px;
+    left:450px;
+    font-size:14px;
+    letter-spacing:.2em;
+    color:#fff;
+    font-family: Sorts Mill Goudy,serif;
+}
+.dog14{
+    position:absolute;
+    top:4410px;
+    width:128px;
+    height:114px;
+    left:77px;
+}
+p31{
+    position:absolute;
+    font-size:20px;
+    letter-spacing:.1em;
+    font-family: Sorts Mill Goudy,serif;
+    color:#fff;
+    top:52px;
+    left:90px;
+}
+p32{
+    position:absolute;
+    font-size:30px;
+    letter-spacing:.1em;
+    font-family: Sorts Mill Goudy,serif;
+    color:#fff;
+    top:44px;
+    left:170px;
+}
+p33{
+    position:absolute;
+    font-size:14px;
+    letter-spacing:.2em;
+    font-family: Sorts Mill Goudy,serif;
+    color:#fff;
+    top:139px;
+    left:130px;
+}
+p35{
+    position:absolute;
+    font-size:10px;
+    letter-spacing:.2em;
+    font-family: Sorts Mill Goudy,serif;
+    color:#937218;
+    line-height: 2;
+    top:4403px;
+    left:370px;
+}
+.dog15{
+    position:absolute;
+    top:4470px;
+    left:1160px;
+}
+p57{
+    position:absolute;
+    letter-spacing:.2em;
+    font-family: Sorts Mill Goudy,serif;
+    color:#937218;
+    font-size:10px;
+    top:4500px;
+    left:370px;
+}

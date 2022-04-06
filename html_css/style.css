@@ -1,0 +1,9 @@
+.flex_test-box {
+    display: flex;              /* フレックスボックスにする */
+}
+
+.flex_test-item{
+   
+    margin: 10px 55px;
+}
+
